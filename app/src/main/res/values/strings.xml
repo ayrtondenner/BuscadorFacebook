@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">TrabalhoQuinta</string>
+    <string name="title_activity_main_page">MainPage</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="facebook_app_id">916051261787435</string>
+
+    <string name="campoNaoEncontrado">Campo não encontrado!</string>
+
+
+    <string-array name="valoresSpinner">
+        <item>5</item>
+        <item>10</item>
+        <item>25</item>
+        <item>50</item>
+        <item>100</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
